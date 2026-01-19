@@ -1,5 +1,3 @@
-# ai-prompts
-Collection of AI prompts for education, leadership, and technical work
 # AI Prompts for Education & Leadership
 
 A collection of practical AI prompts for educators, leaders, and technical professionals. These prompts are designed to make premium tools and workflows accessible to everyone for free.
@@ -8,10 +6,11 @@ A collection of practical AI prompts for educators, leaders, and technical profe
 
 ---
 
-##  What's Here
+## What's Here
 
 This repository contains AI prompts I've developed for:
 - **Study & Learning Tools** - Make learning more effective and memorable
+- **Project Management** - Professional documentation and workflow tools
 - **Leadership Development** - Prompts for coaching, decision-making, and team development
 - **Technical & IT Management** - Workflows for K-12 IT administration
 - **Executive Organization** - Tools for managing complex projects and priorities
@@ -20,7 +19,9 @@ All prompts are designed to work with ChatGPT, Claude, Gemini, and other AI assi
 
 ---
 
-##  Featured Prompt: Nonfiction Study Partner
+## Featured Prompts
+
+### Nonfiction Study Partner
 
 **What it does:** Turns any nonfiction book into a complete learning system with chapter breakdowns, practical exercises, flashcards, implementation plans, and personalized recommendations.
 
@@ -31,11 +32,26 @@ All prompts are designed to work with ChatGPT, Claude, Gemini, and other AI assi
 - Students tackling dense material
 - Anyone who wants to actually *apply* what they read
 
-**[→ Get the Nonfiction Study Partner Prompt](study-partner-shortform-alternative.md)**
+**[→ Get the Nonfiction Study Partner Prompt](study-tools/nonfiction-study-partner.md)**
 
 ---
 
-##  How to Use These Prompts
+### Professional Meeting Minutes Generator
+
+**What it does:** Transforms messy meeting transcripts into clean, professional, PMBOK-aligned meeting minutes with clear decisions, action items, risks, and next steps.
+
+**Why it exists:** Created to help a new PM on my team learn professional documentation standards while saving 30-45 minutes per meeting.
+
+**Best for:**
+- Project managers (new or experienced)
+- Team leads who facilitate meetings
+- Anyone who needs consistent, actionable meeting records
+
+**[→ Get the Meeting Minutes Generator Prompt](project-management/meeting-minutes-generator.md)**
+
+---
+
+## How to Use These Prompts
 
 1. **Choose a prompt** from the repository
 2. **Copy the entire prompt** (they're designed to work as complete instructions)
@@ -52,11 +68,13 @@ All prompts are designed to work with ChatGPT, Claude, Gemini, and other AI assi
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
 ```
 ├── study-tools/
 │   └── nonfiction-study-partner.md
+├── project-management/
+│   └── meeting-minutes-generator.md
 ├── leadership/
 │   └── (coming soon)
 ├── technical/
@@ -67,7 +85,7 @@ All prompts are designed to work with ChatGPT, Claude, Gemini, and other AI assi
 
 ---
 
-##  Contributing
+## Contributing
 
 Have improvements or variations? Feel free to:
 - **Open an issue** with suggestions
@@ -76,7 +94,7 @@ Have improvements or variations? Feel free to:
 
 ---
 
-##  Contact & Feedback
+## Contact & Feedback
 
 Found these helpful? Have questions? Want to share how you're using them?
 
@@ -86,13 +104,13 @@ Found these helpful? Have questions? Want to share how you're using them?
 
 ---
 
-##  License
+## License
 
 These prompts are free to use, modify, and share. Attribution appreciated but not required.
 
 ---
 
-##  Context
+## Context
 
 I created these prompts while serving as Executive Director of IT Services at Jackson Public Schools in Jackson, MS. My work involves technical infrastructure, leadership development, and making education more effective and equitable. These prompts reflect real needs from real work.
 
